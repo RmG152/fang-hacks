@@ -1,8 +1,8 @@
 [submodule "bootstrap"]
 	path = bootstrap
-	url = https://github.com/samtap/fang-hacks
+	url = https://github.com/RmG152/fang-hacks
 	branch = bootstrap
 [submodule "data"]
 	path = data
-	url = https://github.com/samtap/fang-hacks.git
+	url = https://github.com/RmG152/fang-hacks.git
 	branch = xf-data
