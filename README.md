@@ -62,3 +62,9 @@ By default the following services are enabled:
 
 ## License
 Any files in this repo that are not already licensed (i.e. my scripts and tools but *not* 3rd party binaries like busybox, dropbear et.al) are licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). 
+
+
+## Thanks
+samtap: main Hack 
+zavviodotcom: webUI to power off, and configure rtsp server
+JameZUK: Crond daemon and script to restart rtsp
