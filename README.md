@@ -65,6 +65,6 @@ Any files in this repo that are not already licensed (i.e. my scripts and tools 
 
 
 ## Thanks
-samtap: main Hack 
-zavviodotcom: webUI to power off, and configure rtsp server
-JameZUK: Crond daemon and script to restart rtsp
+- samtap: main Hack 
+- zavviodotcom: webUI to power off, and configure rtsp server
+- JameZUK: Crond daemon and script to restart rtsp
